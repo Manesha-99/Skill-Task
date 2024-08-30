@@ -12,7 +12,7 @@ const port = process.env.PORT;
 //--------------------------HardCoded Data--------------------------
 
 const products = [
-  { id: 1, name: "Product ex_1", category: "Category_1", price: "9.99"},
+  { id: 1, name: "Product ex_1", category: "Category_1", price: "9.99" },
   { id: 2, name: "Product ex_2", category: "Category_1", price: "19.99" },
   { id: 3, name: "Product ex_3", category: "Category_2", price: "6.99" },
   { id: 4, name: "Product ex_4", category: "Category_2", price: "16.99" },
